@@ -1,0 +1,4 @@
+Pearson correlation is -0.001781
+In 10000 trials, 1 matches had average rank 4410.000000
+Assuming uniqueness, 0.559000 of the trials were >=
+Assuming uniqueness, 0.441000 of the trials were <=

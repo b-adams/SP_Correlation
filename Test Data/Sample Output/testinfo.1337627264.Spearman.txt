@@ -1,0 +1,4 @@
+Spearman correlation is -0.007983
+In 10000 trials, 1 matches had average rank 3538.000000
+Assuming uniqueness, 0.646200 of the trials were >=
+Assuming uniqueness, 0.353800 of the trials were <=
